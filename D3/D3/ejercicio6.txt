@@ -1,0 +1,3 @@
+Primeramente se realiza el ejercicio de concatenar que viene en los apuntes de listas.
+
+a) Separar es lo inverso a concatenar. Ponemos concatena(X,Y,[Lista]) y nos da todos los posibles resultados.
